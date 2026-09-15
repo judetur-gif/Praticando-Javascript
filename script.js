@@ -1,4 +1,3 @@
-
 // FUNÇÕES NATIVAS JS
 
 // FUNÇÃO MAP()
@@ -273,15 +272,18 @@
 //ParseFloat() -> converte para número decimal/ponto flutuante
 //idade = parseFloat(prompt("Digite sua idade: "))
 
+
+
+
 // O QUE VEREMOS NAS PRÓXIMAS AULAS
 //SPOILER.......
 
-let textoP = document.getElementById("texto");
+//let textoP = document.getElementById("texto");
 
-let saudacao = prompt("Digite a saudação: ");
+//let saudacao = prompt("Digite a saudação: ");
 
-if(saudacao == "bom dia") {
-    textoP.textContent = saudacao; // textContent -> insere o conteúdo de texto dentro da tag
-} else {
-    textoP.textContent = "SEGUNDOUUUUU! :)"
-}
+//if(saudacao == "bom dia") {
+    //textoP.textContent = saudacao; // textContent -> insere o conteúdo de texto dentro da tag
+//} else {
+    //textoP.textContent = "SEGUNDOUUUUU! :)"
+//}
