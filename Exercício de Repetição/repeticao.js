@@ -38,13 +38,13 @@
 //}
 
 // Exercício 5
-let acerteNumero = prompt("Acerte o número aleatório (1 a 100): ");
-let valor = 99;
-let palpite = 0;
+// let acerteNumero = prompt("Acerte o número aleatório (1 a 100): ");
+// let valor = 99;
+// let palpite = 0;
 
-while(palpite !== valor){
+// while(palpite !== valor){
 
-    if (palpite < valor){
+//     if (palpite < valor){
         
-    }
-}
+//     }
+// }
